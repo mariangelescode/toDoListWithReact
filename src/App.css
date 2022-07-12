@@ -39,8 +39,8 @@
 }
 /* bottom right */ 
 .ribbon-bottom-right {
-  bottom: -10px;
-  right: -10px;
+  bottom: 0px;
+  right: 0px;
 }
 
 .ribbon-bottom-right span {
